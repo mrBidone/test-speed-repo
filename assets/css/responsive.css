@@ -1,0 +1,451 @@
+@media screen and (max-width:1680px) {}
+
+/*max-width:1680px*/
+@media screen and (max-width:1440px) {}
+
+/*max-width:1440px*/
+
+@media screen and (max-width:1190px) {
+	.container {
+		width: 100%;
+		padding: 0 10px;
+	}
+
+	.portfolioCol {
+		columns: 3;
+	}
+}
+
+/*max-width:1170px*/
+
+@media screen and (max-width:1024px) {}
+
+/*max-width:1024px*/
+
+@media screen and (max-width:1008px) {}
+
+/*max-width:1008px*/
+
+@media screen and (max-width:992px) {}
+
+/*max-width:992px*/
+
+@media screen and (max-width:960px) {
+	.container {
+		max-width: 640px;
+	}
+
+	.header .container {
+		max-width: initial;
+	}
+
+	.navmenu ul li {
+		margin: 0 10px;
+	}
+
+	.heroHeader {
+		font-size: 62px;
+	}
+
+	.heroText {
+		padding: 0 20px;
+	}
+
+	.heroImageLBg {
+		transform: scale(0.6);
+		transform-origin: 0%;
+	}
+
+	.heroImageRBg {
+		transform: scale(0.6);
+		transform-origin: 100%;
+	}
+
+	.featuredWorkHead,
+	.portfolioHead,
+	.creativeServicesHead,
+	.aboutHead,
+	.contactHead {
+		font-size: 50px;
+	}
+
+	.testimonial {
+		flex-direction: row;
+		flex-wrap: wrap;
+		padding-top: 80px;
+	}
+
+	.testimonialContainer:after {
+		transform: scale(0.6);
+		transform-origin: 100%;
+	}
+
+	.testimonialContainer2:before {
+		bottom: -80px;
+		transform: scale(0.6);
+		transform-origin: 0%;
+	}
+
+	.testimonialL,
+	.testimonialR {
+		width: 100%;
+	}
+
+	.testimonial:hover .testimonialImg {
+		transform: scale(1.2);
+	}
+
+	.testimonialImg {
+		float: none;
+		margin: 0 auto;
+		display: block;
+		max-width: 160px;
+	}
+
+	.featuredItemRow,
+	.clientLogos,
+	.aboutCols {
+		flex-wrap: wrap;
+	}
+
+	.featuredItemL,
+	.featuredItemR {
+		width: 100%;
+		margin: 0;
+	}
+
+	.featuredItem1 .featuredItemRow:before,
+	.featuredItem2 .featuredItemRow:before {
+		top: 250px;
+		bottom: initial;
+		transform: scale(0.7);
+	}
+
+
+
+	.featuredItemR {
+		padding-top: 20px;
+	}
+
+	.portfolioCol {
+		columns: 2;
+	}
+
+	.portfolioWrapper:before {
+		transform: scale(0.6);
+		transform-origin: 0%;
+	}
+
+
+	.portfolioWrapper:after {
+		transform: scale(0.7);
+		transform-origin: 100%;
+	}
+
+	.clientLogo {
+		width: 50%;
+		padding: 20px;
+	}
+
+
+	.creativeServices:after {
+		transform: scale(0.6);
+		transform-origin: 100%;
+	}
+
+	.creativeServicesIcon {
+		width: 50%;
+	}
+
+
+	.aboutCol {
+		width: 100%;
+	}
+
+	.contactWrapper:before {
+		transform: scale(0.6);
+		transform-origin: 0%;
+	}
+
+	.contactWrapper:after {
+		transform: scale(0.6);
+		transform-origin: 100%;
+	}
+
+	.contactCol {
+		width: 100%;
+	}
+
+	.contactColL {
+		margin-bottom: 30px;
+	}
+}
+
+/*max-width:960px*/
+
+@media screen and (max-width:768px) {
+	.logo {
+		width: 180px;
+	}
+
+	.header-col {
+		justify-content: space-around;
+	}
+
+	.mobMenuIcon {
+		display: block;
+		width: 26px;
+	}
+
+	.letsChatBtn {
+		width: 180px;
+	}
+
+	.navmenu {
+		position: absolute;
+		width: 100%;
+		top: 80px;
+		background: #EEEBE3;
+		display: none;
+		box-shadow: 0px 0px 2px 2px #eee;
+	}
+
+	.navmenu.show {
+		display: block;
+	}
+
+	.navmenu ul li {
+		display: block;
+		margin: 15px 10px;
+	}
+
+	.navmenu ul li a:hover {
+		border-bottom: 1px solid transparent;
+	}
+
+	.heroImage {
+		overflow: hidden;
+	}
+
+	/* .heroImage img {
+		width: initial;
+		margin-left: -50%;
+	} */
+
+	.testimonial {
+		padding: 40px;
+	}
+
+
+}
+
+/*max-width:768px*/
+
+@media screen and (max-width:767px) {}
+
+/*max-width:767px*/
+
+@media screen and (max-width: 660px) {}
+
+/*max-width:660px*/
+
+@media screen and (max-width: 640px) {
+	.heroHeader {
+		font-size: 50px;
+		line-height: initial;
+	}
+
+	.featuredWorkHead,
+	.portfolioHead,
+	.creativeServicesHead,
+	.aboutHead,
+	.contactHead {
+		font-size: 42px;
+	}
+
+	.contactCTABtn {
+		font-size: 18px;
+		width: 300px;
+		padding: 20px 40px;
+		line-height: 30px;
+	}
+}
+
+/*max-width:640px*/
+
+@media screen and (max-width: 580px) {}
+
+/*max-width:580px*/
+
+@media screen and (max-width: 540px) {
+
+	.footerColL,
+	.footerColR {
+		width: 100%;
+		text-align: center;
+	}
+
+	.footerColR {
+		margin-top: 10px;
+	}
+
+}
+
+/*max-width:540px*/
+
+@media screen and (max-width: 480px) {
+	.logo {
+		width: 160px;
+		padding: 5px;
+	}
+
+	.letsChatBtn {
+		display: flex;
+		justify-content: center;
+		padding: 5px;
+		width: 150px;
+	}
+
+	.mobMenuIcon {
+		padding: 5px;
+	}
+
+	.hero {
+		padding-top: 40px;
+		padding-bottom: 20px;
+	}
+
+	.heroHeader {
+		font-size: 36px;
+	}
+
+	.heroImageContainer {
+		padding: 100px 0;
+	}
+
+	/* .heroImage img{
+		width:1000px;
+		
+	} */
+
+	.heroImage img {
+		width: 100%;
+	}
+
+
+	.heroImageLBg,
+	.heroImageRBg {
+		transform: scale(0.4);
+	}
+
+	.heroImageLBg {
+		top: -100px;
+	}
+
+	.heroImageRBg {
+		top: -10px;
+	}
+
+	.featuredWork {
+		padding: 40px 20px;
+	}
+
+	.featuredItem1 .featuredItemRow:before,
+	.featuredItem2 .featuredItemRow:before {
+		display: none;
+	}
+
+	.featuredItemCategory {
+		flex-wrap: wrap;
+	}
+
+	.CategoryColLeft {
+		width: 100%;
+		text-align: center;
+		margin-top: 10px;
+	}
+
+	.CategoryColRight {
+		width: 100%;
+		margin: 0;
+		margin-top: 20px;
+		text-align: center;
+	}
+
+	.portfolio {
+		padding: 50px 0;
+	}
+
+	.portfolioCol {
+		columns: 1;
+	}
+
+	.portfolioItem {
+		max-width: 300px;
+	}
+
+	.portfolioItem:hover {
+		transform: initial;
+	}
+
+	.featuredItemName {
+		font-size: 30px;
+	}
+
+	.creativeServicesIcon {
+		width: 100%;
+	}
+
+
+	.clientLogo {
+		width: 100%;
+		padding: 40px 10px;
+		max-width: 270px;
+	}
+
+	.aboutCol {
+		padding: 50px 30px;
+		margin: 15px 0;
+	}
+
+	.contactWrapper {
+		padding: 50px 30px;
+	}
+}
+
+/*max-width:480px*/
+
+@media screen and (max-width: 440px) {}
+
+/*max-width:400px*/
+
+@media screen and (max-width:350px) {
+	.contactCTABtn {
+		width: 290px;
+	}
+}
+
+/*max-width:350px*/
+
+@media screen and (max-width: 320px) {}
+
+/*max-width:320px*/
+
+
+@media (min-width:768px) {
+	.header-col>* {
+		width: 180px;
+	}
+
+	.navmenu {
+		width: calc(100% - 360px);
+		text-align: center;
+	}
+}
+
+
+@media screen and (max-width: 1200px) {}
+
+@media screen and (max-width: 900px) {}
+
+@media screen and (max-width: 500px) {}

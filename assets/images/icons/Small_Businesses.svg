@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg852" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 682.67 682.67">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fe5102;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 26.67px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="682.67" height="682.67"/>
+    </clipPath>
+  </defs>
+  <g id="g858">
+    <g id="g860">
+      <g class="cls-3">
+        <g id="g862">
+          <g id="g868">
+            <path id="path870" class="cls-2" d="M629.55,275.73v287.83H53.12v-289.61"/>
+          </g>
+          <g id="g872">
+            <path id="path874" class="cls-2" d="M281.06,633.57H13.33v-70.01h656v70.01h-388.27Z"/>
+          </g>
+          <g id="g876">
+            <path id="path878" class="cls-2" d="M341.58,633.57h0"/>
+          </g>
+          <g id="g880">
+            <path id="path882" class="cls-2" d="M160.38,49.1h-90.48l-42.43,106.12h104.62l28.28-106.12Z"/>
+          </g>
+          <g id="g884">
+            <path id="path886" class="cls-2" d="M27.48,155.22v71.51c0,28.89,23.42,52.31,52.31,52.31h0c28.89,0,52.31-23.42,52.31-52.31v-71.51H27.48Z"/>
+          </g>
+          <g id="g888">
+            <path id="path890" class="cls-2" d="M132.09,155.22v71.51c0,28.89,23.42,52.31,52.31,52.31s52.31-23.42,52.31-52.31v-71.51h-104.62Z"/>
+          </g>
+          <g id="g892">
+            <path id="path894" class="cls-2" d="M250.86,49.1h-90.48l-28.28,106.12h104.62l14.14-106.12Z"/>
+          </g>
+          <g id="g896">
+            <path id="path898" class="cls-2" d="M341.33,49.1h-90.48l-14.14,106.12h104.62V49.1Z"/>
+          </g>
+          <g id="g900">
+            <path id="path902" class="cls-2" d="M236.71,155.22v71.51c0,28.89,23.42,52.31,52.31,52.31s52.31-23.42,52.31-52.31v-71.51h-104.62Z"/>
+          </g>
+          <g id="g904">
+            <path id="path906" class="cls-2" d="M431.81,49.1h-90.48v106.12h104.62l-14.14-106.12Z"/>
+          </g>
+          <g id="g908">
+            <path id="path910" class="cls-2" d="M341.33,155.22v71.51c0,28.89,23.42,52.31,52.31,52.31s52.31-23.42,52.31-52.31v-71.51h-104.62Z"/>
+          </g>
+          <g id="g912">
+            <path id="path914" class="cls-2" d="M522.29,49.1h-90.48l14.14,106.12h104.62l-28.28-106.12Z"/>
+          </g>
+          <g id="g916">
+            <path id="path918" class="cls-2" d="M445.95,155.22v71.51c0,28.89,23.42,52.31,52.31,52.31s52.31-23.42,52.31-52.31v-71.51h-104.62Z"/>
+          </g>
+          <g id="g920">
+            <path id="path922" class="cls-2" d="M612.77,49.1h-90.48l28.28,106.12h104.62l-42.43-106.12Z"/>
+          </g>
+          <g id="g924">
+            <path id="path926" class="cls-2" d="M550.57,155.22v71.51c0,28.89,23.42,52.31,52.31,52.31h0c28.89,0,52.31-23.42,52.31-52.31v-71.51h-104.62Z"/>
+          </g>
+          <path id="path928" class="cls-2" d="M281.68,563.56H117.07v-220.71h164.61v220.71Z"/>
+          <path id="path930" class="cls-2" d="M565.6,487.88h-207.32v-145.02h207.32v145.02Z"/>
+          <g id="g932">
+            <path id="path934" class="cls-2" d="M403.5,435.9l53.1-53.1"/>
+          </g>
+          <g id="g936">
+            <path id="path938" class="cls-2" d="M430.88,485.54l42.9-42.9"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
